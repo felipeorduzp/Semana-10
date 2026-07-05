@@ -1,0 +1,14 @@
+¿Qué 2 tareas del backlog harías primero?
+Registrar incidencias con evidencia (texto, foto o documento).
+Clasificar los reportes por tipo de incidencia (ambiental, seguridad, servicios públicos).
+
+¿Por qué son las más importantes?
+Registrar incidencias es la base del sistema: sin reportes no hay información que gestionar ni seguimiento que hacer.
+Clasificar los reportes permite organizar la información desde el inicio, lo que facilita análisis posteriores y evita que los datos se acumulen de forma caótica.
+En conjunto, estas dos tareas garantizan que la plataforma tenga contenido útil y ordenado desde el primer día.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Una definición simple de terminado podría ser:
+Funciona correctamente: la tarea cumple con lo que se esperaba y se puede usar sin errores.
+Fue probada: se verificó con casos de prueba o ejemplos reales que la funcionalidad responde bien.
+Quedó documentada y registrada en Git: el código está guardado en el repositorio y acompañado de notas o comentarios que explican su uso.

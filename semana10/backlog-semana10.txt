@@ -1,0 +1,21 @@
+1. Como ciudadano quiero acceder a un mapa interactivo de incidencias para identificar las zonas con más problemas en mi comunidad.
+
+2. Como miembro del comité de veeduría quiero clasificar los reportes por tipo de incidencia (ambiental, seguridad, servicios públicos), para facilitar el análisis.
+
+3. Como coordinador quiero asignar responsables a cada reporte, para asegurar que se atienda de manera organizada.
+
+4. Como ciudadano quiero recibir una notificación cuando mi incidencia tenga una actualización, para mantenerme informado.
+
+5. Como investigador comunitario quiero exportar los datos de los reportes en formato abierto (CSV/JSON), para analizarlos en otras herramientas.
+
+Orden de mayor a menor prioridad
+
+1. Acceder a un mapa interactivo de incidencias (visualización clave para la comunidad).
+
+2. Clasificar reportes por tipo de incidencia (estructura básica de gestión).
+
+3. Asignar responsables a cada reporte (garantiza acción organizada).
+
+4. Recibir notificación de actualización (transparencia y confianza).
+
+5. Exportar datos en formato abierto (valor agregado para investigación).
